@@ -1,1 +1,1 @@
-# Orange-for-ML
+Use Orange for supervised and un-supervised learning
